@@ -1,21 +1,31 @@
-<<<<<<< HEAD
-# jeu_artistes
+# 🎮 ARTISTAR
 
-A new Flutter project.
+## 📌 Description
+ARTISTAR est une application mobile développée avec Flutter.  
+C’est un jeu interactif qui permet aux utilisateurs de tester leurs connaissances sur les artistes africains.
 
-## Getting Started
+## 🎯 Objectif
+Trouver le bon artiste parmi plusieurs propositions dans un temps limité.
 
-This project is a starting point for a Flutter application.
+## ⚙️ Fonctionnalités
+- Grille de jeu 3×3
+- Système de points et de combo
+- Niveaux de difficulté (Facile, Moyen, Difficile)
+- Chronomètre
+- Système de vies
 
-A few resources to get you started if this is your first Flutter project:
+## 🕹️ Comment jouer
+- Un nom d’artiste s’affiche
+- Clique sur la bonne image
+- Gagne des points et augmente ton combo
+- Attention aux erreurs et au temps !
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Technologies utilisées
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# ArtistGuess
->>>>>>> d5f73d2610a05b54f9f1a5e240bc0ab2f2492ee1
+## 📱 Version
+1.0.0
+
+## 👨‍💻 Auteur
+Marlette LK
