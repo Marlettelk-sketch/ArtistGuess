@@ -34,5 +34,5 @@ Trouver le bon artiste parmi plusieurs propositions dans un temps limité.
 ## 📱 Version
 1.0.0
 
-## 👨‍💻 Auteur
-Marlette LK
+## 👨‍💻 Auteurs
+OLAOGOU Hidayath, LOKO DANSOU Peace, BAKARY Himayath
